@@ -1,0 +1,95 @@
+[
+    {
+        "id": "polytechnic-university-of-the-philippines",
+        "jobPicture": "pup.png",
+        "jobColor": "#10214c",
+        "jobTitle": "Thesis Leader, Full-Stack Developer, and Web Designer",
+        "jobTime": "November 2023 - October 2024",
+        "jobCompany": "Polytechnic University of the Philippines",
+        "jobCompanySite": "https://www.pup.edu.ph/",
+        "jobDescription": "I lead a team of 4 students in the development of a web-based application that allows university community to create lost and found reports of missing items and allows the admin to manage the reports.",
+        "jobActivities": [
+            "Developing and deploying a system that streamlined searching, reporting, communication, and documentation by 40%",
+            "Designing and implementing RESTful APIs using Node.js and Express",
+            "Incorporated processes for creation and management of lost and found reports which helps the admins knowing who to communicate with for possible matching reports",
+            "Implemented real-time messaging with Socket.io for client inquiries towards the admins about their lost and found items and reports."
+        ],
+        "jobTechnologies": [
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "MongoDB",
+                "icon": "mongodb"
+            },
+            {
+                "name": "Express",
+                "icon": "express"
+            },
+            {
+                "name": "React",
+                "icon": "react"
+            },
+            {
+                "name": "Node.js",
+                "icon": "node"
+            },
+            {
+                "name": "TailwindCSS",
+                "icon": "tailwind"
+            },
+            {
+                "name": "Socket.io",
+                "icon": "socket.io"
+            }
+        ]
+    },
+    {
+        "id": "philippine-coconut-authority",
+        "jobPicture": "pca.png",
+        "jobColor": "#006fff",
+        "jobTitle": "Full-Stack Developer Intern",
+        "jobTime": "March 2024 - July 2024",
+        "jobCompany": "Philippine Coconut Authority",
+        "jobCompanySite": "https://pca.gov.ph/",
+        "jobDescription": "I lead develop and contribute to several projects, creating solutions that meet the organization's needs and transforming their concepts into a reality.",
+        "jobActivities": [
+            "Developed OPFRS (Oil Palm Farmer Registry System) from scratch, used for keeping records of oil palm farmers in the Philippines.",
+            "Implement a dashboard for OPFRS that generates graphs and reports about the farmers' information that helps the admin to make decisions.",
+            "Collaborated on implementing backend solutions for IMS (Inventory Management System) with regards to PCA's item suppliers.",
+            "Refactored 50% of IMS's code base which were written by previous interns.",
+            "Contributed to developing a web version of an existing EPMS (Employee Payroll Management System), transitioning from a C# application to a ReactJS-based website.",
+            "Assisted in setting up devices and software for the Boardroom and AFB's online and face-to-face meetings.",
+            "Provided support to various departments, resolving issues related to internet connectivity and devices (printers, monitors).",
+            "Operated as the cameraman for the live-stream broadcast of PCA's 51st Anniversary on YouTube.",
+            "Played an active role in the PCA “MUSICOCO” singing contest committee, organizing and preparing the full setup at PCA's auditorium."
+        ],
+        "jobTechnologies": [
+            {
+                "name": "PHP",
+                "icon": "php"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "HTML",
+                "icon": "html"
+            },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "MySQL",
+                "icon": "mysql"
+            },
+            {
+                "name": "jQuery",
+                "icon": "jquery"
+            }
+        ]
+    }
+]

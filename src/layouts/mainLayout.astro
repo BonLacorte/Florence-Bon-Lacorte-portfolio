@@ -1,0 +1,72 @@
+---
+const { title } = Astro.props;
+import "../styles/globals.css";
+---
+
+<html lang="en" class="dark">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <meta name="viewport" content="width=device-width" />
+        <meta name="generator" content={Astro.generator} />
+        <meta
+            name="description"
+            content="Florence Bon Lacorte is an experienced full-stack developer specializing in back-end development."
+        />
+        <meta name="author" content="Florence Bon Lacorte" />
+        <meta
+            name="keywords"
+            content="Florence Bon Lacorte, Bon Lacorte, dnachavez, Full-stack Developer, full-stack, PHP, Javascript, React, Node.js, Express, MongoDB, web development, back-end development, front-end development"
+        />
+        <meta
+            property="og:title"
+            content="Florence Bon Lacorte - Full-stack Developer"
+        />
+        <meta property="og:url" content="https://dnachavez.dev/" />
+        <!-- <meta property="og:image" content="/ogimage.png" /> -->
+        <meta
+            property="og:description"
+            content="Florence Bon Lacorte is an experienced full-stack developer specializing in back-end development."
+        />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="Florence Bon Lacorte - Full-stack Developer" />
+        <meta property="og:locale" content="en_US" />
+        <link rel="canonical" href="https://dnachavez.dev/" />
+        <title>{title}</title>
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "Person",
+                "name": "Florence Bon Lacorte",
+                "url": "https://fbdlacorte.dev",
+                "sameAs": [
+                    "https://www.linkedin.com/in/florence-bon-lacorte-4b6b7a18b/",
+                    "https://github.com/BonLacorte",
+                    "https://www.instagram.com/bonlacorte",
+                    "https://www.tiktok.com/@dnachavez",
+                    "https://x.com/dnachavez_dev"
+                ],
+                "jobTitle": "Full-stack Developer",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Polytechnic University of the Philippines"
+                }
+            }
+            </script>
+    </head>
+    <body class="bg-light-fondo-primary dark:bg-dark-fondo-primary">
+        <slot />
+        <script>
+            const darkThemeMq = window.matchMedia(
+                "(prefers-color-scheme: dark)"
+            );
+            if (darkThemeMq.matches) {
+                document.body.classList.add("dark");
+                document.documentElement.classList.add("dark");
+            } else {
+                document.body.classList.remove("dark");
+                document.documentElement.classList.remove("dark");
+            }
+        </script>
+    </body>
+</html>

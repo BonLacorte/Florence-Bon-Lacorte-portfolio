@@ -1,0 +1,87 @@
+[
+    {
+        "id": "pup-find",
+        "carouselImages": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png", "10.png"],
+        "projectSite": "https://pupfind.vercel.app/",
+        "projectTitle": "PUPFind",
+        "projectSlogan": "Find what's lost, surrender what's found",
+        "projectDescription": "PUPFIND is a web-based application designed to track missing items at the Polytechnic University of the Philippines. The system facilitates the reporting of missing items and streamlines the process of matching them with found items, providing a platform to enhance the retrieval of lost valuables.",
+
+        "projectTechnologies": [
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "React",
+                "icon": "react"
+            },
+            {
+                "name": "Tailwind CSS",
+                "icon": "tailwind"
+            },
+            {
+                "name": "MongoDB",
+                "icon": "mongodb"
+            },
+            {
+                "name": "Express",
+                "icon": "express"
+            },
+            {
+                "name": "Node.js",
+                "icon": "node.js"
+            },
+            {
+                "name": "Websocket",
+                "icon": "websocket"
+            }
+        ]
+    },
+    {
+        "id": "leet-collab",
+        "carouselImages": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png", "10.png"],
+        "projectRepo": "https://github.com/BonLacorte/LeetCollab-2.0",
+        "projectTitle": "LeetCollab",
+        "projectSlogan": "Collaborate and solve coding challenges together",
+        "projectDescription": "LeetCollab is an innovative online platform built for collaborative coding and algorithm problem-solving. It enables users to tackle coding challenges together in real-time, fostering a dynamic learning environment. LeetCollab provides a rich set of collaboration tools, including a live chat feature for seamless communication and an interactive whiteboard for real-time visual problem-solving and diagramming. The platform also supports a shared coding environment, where users can simultaneously write, edit, and run code, making it an ideal space for pair programming, study groups, and algorithm practice.\n\nWhether you're preparing for coding interviews or simply honing your problem-solving skills, LeetCollab offers a community-driven experience designed to make learning more interactive and engaging.",
+        "projectTechnologies": [
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "Nextjs",
+                "icon": "nextjs"
+            },
+            {
+                "name": "React",
+                "icon": "react"
+            },
+            {
+                "name": "Tailwind CSS",
+                "icon": "tailwind"
+            },
+            {
+                "name": "PostgreSQL",
+                "icon": "postgresql"
+            },
+            {
+                "name": "Prisma",
+                "icon": "prisma"
+            },
+            {
+                "name": "Express",
+                "icon": "express"
+            },
+            {
+                "name": "Node.js",
+                "icon": "node.js"
+            },
+            {
+                "name": "Websocket",
+                "icon": "websocket"
+            }
+        ]
+    }
+]

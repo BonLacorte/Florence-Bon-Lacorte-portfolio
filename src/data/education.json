@@ -1,0 +1,18 @@
+[
+    {
+        "id": "polytechnic-university-of-the-philippines",
+        "educationPicture": "pup.png",
+        "educationTitle": "Bachelor of Science in Information Technology",
+        "educationType": "Degree:",
+        "educationTime": "October 2020 - October 2024",
+        "educationCompany": "Polytechnic University of the Philippines"
+    },
+    {
+        "id": "valenzuela-city-school-of-mathematics-and-science-high-school",
+        "educationPicture": "vcsms.png",
+        "educationTitle": "Science, Technology, Engineering, and Mathematics",
+        "educationType": "Strand:",
+        "educationTime": "June 2018 - March 2020",
+        "educationCompany": "Valenzuela City School of Mathematics and Science High School"
+    }
+]
