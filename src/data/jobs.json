@@ -57,9 +57,6 @@
         "jobActivities": [
             "Developed OPFRS (Oil Palm Farmer Registry System) from scratch, used for keeping records of oil palm farmers in the Philippines.",
             "Implement a dashboard for OPFRS that generates graphs and reports about the farmers' information that helps the admin to make decisions.",
-            "Collaborated on implementing backend solutions for IMS (Inventory Management System) with regards to PCA's item suppliers.",
-            "Refactored 50% of IMS's code base which were written by previous interns.",
-            "Contributed to developing a web version of an existing EPMS (Employee Payroll Management System), transitioning from a C# application to a ReactJS-based website.",
             "Assisted in setting up devices and software for the Boardroom and AFB's online and face-to-face meetings.",
             "Provided support to various departments, resolving issues related to internet connectivity and devices (printers, monitors).",
             "Operated as the cameraman for the live-stream broadcast of PCA's 51st Anniversary on YouTube.",
