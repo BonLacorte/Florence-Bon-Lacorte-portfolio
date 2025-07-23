@@ -88,5 +88,54 @@
                 "icon": "jquery"
             }
         ]
+    },
+    {
+        "id": "philippine-coconut-authority-1",
+        "jobPicture": "pca.png",
+        "jobColor": "#006fff",
+        "jobTitle": "Technical Staff - Computer Programmer",
+        "jobTime": "December 2024 - July 2025",
+        "jobCompany": "Philippine Coconut Authority",
+        "jobCompanySite": "https://pca.gov.ph/",
+        "jobDescription": "I serve as a full-stack developer under the Internal Audit Department of PCA, where I build internal systems, participate in audits, and apply IT standards and compliance frameworks.",
+        "jobActivities": [
+            "Developed the official website of the Internal Audit Department from the ground up—designed the frontend, built the backend, created the database structure, performed testing, and deployed the project to production.",
+            "Created a secure, user-friendly platform that allows focal persons across all PCA departments to log in, answer audit questionnaires, and submit documents for auditor review.",
+            "Implemented a digital validation process enabling auditors to accept or reject responses and attachments based on completeness and compliance.",
+            "Conducted a live project demonstration and system walkthrough of the Internal Audit Website in front of the entire PCA workforce.",
+            "Participated in multiple internal audit engagements, including audits of the GAD (Gender and Development) Program and the NCFRS (National Coconut Farmers Registry System).",
+            "Gained working knowledge of IT-related standards and frameworks including ISO/IEC 27001:2022, ISO/IEC 27000:2018, the Philippine Data Privacy Act, and COBIT 2019."
+        ],
+        "jobTechnologies": [
+            {
+                "name": "PHP",
+                "icon": "php"
+            },
+            {
+                "name": "Laravel",
+                "icon": "laravel"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "TailwindCSS",
+                "icon": "tailwind"
+            },
+            
+            {
+                "name": "jQuery",
+                "icon": "jquery"
+            },
+            {
+                "name": "CPanel",
+                "icon": "cpanel"
+            },
+            {
+                "name": "Linux",
+                "icon": "linux"
+            }
+        ]
     }
 ]

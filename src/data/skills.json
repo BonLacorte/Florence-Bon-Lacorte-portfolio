@@ -4,6 +4,14 @@
         "skillPicture": "php.svg"
     },
     {
+        "skillName": "Laravel",
+        "skillPicture": "laravel.svg"
+    },
+    {
+        "skillName": "CPanel",
+        "skillPicture": "cpanel.svg"
+    },
+    {
         "skillName": "Python",
         "skillPicture": "python.svg"
     },

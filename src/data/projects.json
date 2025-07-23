@@ -83,5 +83,35 @@
                 "icon": "websocket"
             }
         ]
+    },
+    {
+        "id": "pca-internal-audit-website",
+        "carouselImages": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png", "10.png","11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png"],
+        "projectSite": "https://pca-iad.pca-webapps.com/",
+        "projectTitle": "PCA Internal Audit Website",
+        "projectSlogan": "Official Website for PCA Internal Audit and audit questionnaires",
+        "projectDescription": "The official website for the Internal Audit Department of the Philippine Coconut Authority (PCA). The platform streamlined audit operations by providing a secure login system for department focal persons nationwide, enabling them to answer auditor-issued questionnaires and upload supporting documents. I also implemented a document validation workflow, allowing auditors to review, accept, or reject submissions based on completeness and compliance. This system digitized and centralized PCA's audit preparation process, significantly reducing manual effort, improving traceability, and fostering more efficient cross-departmental coordination.",
+        "projectTechnologies": [
+            {
+                "name": "PHP",
+                "icon": "php"
+            },
+            {
+                "name": "Laravel",
+                "icon": "laravel"
+            },
+            {
+                "name": "Blade",
+                "icon": "blade"
+            },
+            {
+                "name": "Tailwind CSS",
+                "icon": "tailwind"
+            },
+            {
+                "name": "MySQL",
+                "icon": "mysql"
+            }
+        ]
     }
 ]
