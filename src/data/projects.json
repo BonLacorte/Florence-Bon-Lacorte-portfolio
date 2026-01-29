@@ -51,6 +51,10 @@
                 "icon": "javascript"
             },
             {
+                "name": "TypeScript",
+                "icon": "typescript"
+            },
+            {
                 "name": "Nextjs",
                 "icon": "nextjs"
             },
@@ -101,8 +105,8 @@
                 "icon": "laravel"
             },
             {
-                "name": "Blade",
-                "icon": "blade"
+                "name": "React",
+                "icon": "react"
             },
             {
                 "name": "Tailwind CSS",
@@ -111,6 +115,10 @@
             {
                 "name": "MySQL",
                 "icon": "mysql"
+            },
+            {
+                "name": "cPanel",
+                "icon": "cpanel"
             }
         ]
     }
