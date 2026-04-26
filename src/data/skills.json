@@ -50,7 +50,7 @@
     {
         "skillName": "MongoDB",
         "skillPicture": "mongodb.svg"
-    },    
+    },
     {
         "skillName": "Express",
         "skillPicture": "express.svg"
@@ -84,16 +84,47 @@
         "skillPicture": "postgresql.svg"
     },
     {
-        "skillName": "WebSocket",
+        "skillName": "Socket.io",
         "skillPicture": "websocket.svg"
     },
     {
-        "skillName": "Tailwind",
+        "skillName": "Tailwind CSS",
         "skillPicture": "tailwind.svg"
     },
     {
         "skillName": "Prisma",
         "skillPicture": "prisma.svg"
+    },
+    {
+        "skillName": "Java",
+        "skillPicture": "java.svg"
+    },
+    {
+        "skillName": "Spring Boot",
+        "skillPicture": "springboot.svg"
+    },
+    {
+        "skillName": "TypeScript",
+        "skillPicture": "typescript.svg"
+    },
+    {
+        "skillName": "Docker",
+        "skillPicture": "docker.svg"
+    },
+    {
+        "skillName": "Kafka",
+        "skillPicture": "kafka.svg"
+    },
+    {
+        "skillName": "Turborepo",
+        "skillPicture": "turborepo.svg"
+    },
+    {
+        "skillName": "JWT",
+        "skillPicture": "jwt.svg"
+    },
+    {
+        "skillName": "Cloudinary",
+        "skillPicture": "cloudinary.svg"
     }
-
 ]

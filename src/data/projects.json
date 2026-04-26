@@ -1,28 +1,118 @@
 [
     {
+        "id": "hospital-bed-management-system",
+        "carouselImages": [
+            "30.png",
+            "29.png",
+            "31.png",
+            "32.png",
+            "33.png",
+            "34.png",
+            "35.png",
+            "36.png",
+            "37.png",
+            "38.png",
+            "39.png",
+            "40.png",
+            "41.png",
+            "42.png",
+            "43.png",
+            "44.png",
+            "45.png",
+            "46.png"
+        ],
+        "projectVideo": "https://youtu.be/-l2CEWnarU0",
+        "projectTitle": "Hospit-Track: Real-time Healthcare Resource Management",
+        "projectSlogan": "Hospital Bed Allocation & Analytics Platform",
+        "projectDescription": "A desktop application developed as a 3rd-year core programming project. Hospit-Track was designed to solve the critical problem of hospital bed allocation and resource management in real-time in the peak of COVID crisis.\n\nThe application features an interactive analytics dashboard that visualizes bed occupancy across different departments (Public vs. Private wards) using dynamic charts. I implemented a request-handling workflow where patient admissions are queued, reviewed, and assigned to specific beds based on availability. This project highlights my proficiency in handling stateful data, and building business workflows within a Java environment.This system was developed for my Java programming subject. It represents my ability to present information clearly to end-users through visualization.",
+        "projectTechnologies": [
+            {
+                "name": "Java",
+                "icon": "java"
+            }
+        ]
+    },
+    {
+        "id": "library-management-system-swing",
+        "carouselImages": [
+            "21.png",
+            "22.png",
+            "23.png",
+            "24.png",
+            "25.png",
+            "26.png",
+            "27.png",
+            "28.png"
+        ],
+        "projectVideo": "https://youtu.be/-l2CEWnarU0",
+        "projectTitle": "Modern Java Library Analytics & Management",
+        "projectSlogan": "Automated Library Operations Platform",
+        "projectDescription": "A self-initiated project developed during my 3rd year of college to master advanced Java Swing concepts and software architecture. Costa-LMS is a modern desktop application designed to streamline library operations, featuring a sleek, custom-built UI that goes far beyond standard Java library defaults.\n\nThe system implements complex library workflows including book issuance (with availability checks), automated return processing, and a 'Defaulter Tracking' system to identify overdue books in real-time. By utilizing custom UI components and a clean modular design, this project demonstrates my ability to take a standard business requirement and elevate it into a professional, production-ready software solution.\n\n👨‍💻 For Engineering Managers:\nThis project was built as a side-project to push the limits of Java desktop development. I focused heavily on creating a reusable UI component library and implementing a robust data validation layer.\n1. Clone the repo\n2. Run the JAR file to see the smooth transitions and modern aesthetics in action.",
+        "projectTechnologies": [
+            {
+                "name": "Java",
+                "icon": "java"
+            },
+            {
+                "name": "MySQL",
+                "icon": "mysql"
+            }
+        ]
+    },
+    {
         "id": "pup-find",
-        "carouselImages": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png", "10.png"],
+        "carouselImages": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png",
+            "8.png",
+            "9.png",
+            "10.png"
+        ],
         "projectSite": "https://pupfind.vercel.app/",
-        "projectTitle": "PUPFind",
-        "projectSlogan": "Find what's lost, surrender what's found",
-        "projectDescription": "PUPFIND is a web-based application designed to track missing items at the Polytechnic University of the Philippines. The system facilitates the reporting of missing items and streamlines the process of matching them with found items, providing a platform to enhance the retrieval of lost valuables.",
-
+        "projectTitle": "PUPFind: Real-Time Lost & Found Ecosystem for Campus Communities",
+        "projectSlogan": "Streamlining Campus-Wide Item Recovery via Socket.io",
+        "projectDescription": "PUPFind is a real-time, full-stack retrieval system developed as a university thesis project to solve the fragmented lost-and-found process at the Polytechnic University of the Philippines.\n\nThe platform automates the matching of 'Missing' and 'Found' item reports, verified through a central administrative office. Key technical features include real-time chat via Socket.io for instant verification, secure JWT-based authentication, and an automated matching workflow that links data models to facilitate item recovery. The system also includes a robust admin suite for generating official retrieval receipts and analyzing campus lost-item hotspots. This project was awarded high technical marks for its implementation of complex real-time data synchronization and its social utility within the campus community.",
         "projectTechnologies": [
             {
                 "name": "JavaScript",
                 "icon": "javascript"
             },
             {
+                "name": "Socket.io",
+                "icon": "websocket"
+            },
+            {
                 "name": "React",
                 "icon": "react"
+            },
+            {
+                "name": "Node.js",
+                "icon": "node"
+            },
+            {
+                "name": "Express",
+                "icon": "express"
+            },
+            {
+                "name": "MongoDB",
+                "icon": "mongodb"
             },
             {
                 "name": "Tailwind CSS",
                 "icon": "tailwind"
             },
             {
-                "name": "MongoDB",
-                "icon": "mongodb"
+                "name": "JWT",
+                "icon": "jwt"
+            },
+            {
+                "name": "Cloudinary",
+                "icon": "cloudinary"
             },
             {
                 "name": "Express",
@@ -33,6 +123,10 @@
                 "icon": "node.js"
             },
             {
+                "name": "Tailwind CSS",
+                "icon": "tailwind"
+            },
+            {
                 "name": "Websocket",
                 "icon": "websocket"
             }
@@ -40,7 +134,18 @@
     },
     {
         "id": "leet-collab",
-        "carouselImages": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png", "10.png"],
+        "carouselImages": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png",
+            "8.png",
+            "9.png",
+            "10.png"
+        ],
         "projectRepo": "https://github.com/BonLacorte/LeetCollab-2.0",
         "projectTitle": "LeetCollab",
         "projectSlogan": "Collaborate and solve coding challenges together",
@@ -90,7 +195,25 @@
     },
     {
         "id": "pca-internal-audit-website",
-        "carouselImages": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png", "10.png","11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png"],
+        "carouselImages": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png",
+            "8.png",
+            "9.png",
+            "10.png",
+            "11.png",
+            "12.png",
+            "13.png",
+            "14.png",
+            "15.png",
+            "16.png",
+            "17.png"
+        ],
         "projectSite": "https://pca-iad.pca-webapps.com/",
         "projectTitle": "PCA Internal Audit Website",
         "projectSlogan": "Official Website for PCA Internal Audit and audit questionnaires",
@@ -119,6 +242,144 @@
             {
                 "name": "cPanel",
                 "icon": "cpanel"
+            }
+        ]
+    },
+    {
+        "id": "ecommerce-microservice",
+        "carouselImages": [
+            "8.png",
+            "7.png",
+            "9.png",
+            "10.png",
+            "11.png",
+            "12.png",
+            "13.png",
+            "14.png",
+            "15.png",
+            "16.png",
+            "17.png",
+            "18.png",
+            "19.png",
+            "20.png"
+        ],
+        "architectureImages": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png"
+        ],
+        "projectRepo": "https://github.com/BonLacorte/Ecommerce-Microservice-Turbo.git",
+        "projectTitle": "TurboCommerce: Event-Driven Microservices Platform",
+        "projectSlogan": "A highly scalable, event-driven ecommerce platform",
+        "projectDescription": "A highly scalable, event-driven ecommerce platform built from the ground up using a microservices architecture. Designed to handle high-traffic scenarios, the system is split into distinct, decoupled services (Auth, Product, Order, Payment, and Email) that communicate asynchronously via an Apache Kafka message broker.\n\nTo optimize developer experience and code-sharing, the entire suite—including two separate Next.js frontends (Client and Admin)—is managed within a Turborepo monorepo. The project demonstrates polyglot persistence, utilizing PostgreSQL (with Prisma) for relational product data and MongoDB (with Mongoose) for flexible order documents. All infrastructure, including the 3-broker Kafka cluster and databases, is fully containerized with Docker for seamless local deployment.\n\n👨‍💻 For Recruiters & Engineers: Run it locally!\nI have designed this complex microservices cluster to be easily deployable on any machine.\n1. Clone the repository\n2. Read the SETUP_GUIDE.md for a single-command Docker spin-up of the Kafka cluster and databases.\n3. Run pnpm dev to boot all 7 services simultaneously.",
+        "projectTechnologies": [
+            {
+                "name": "Architecture",
+                "icon": "turborepo"
+            },
+            {
+                "name": "Docker",
+                "icon": "docker"
+            },
+            {
+                "name": "Apache Kafka",
+                "icon": "kafka"
+            },
+            {
+                "name": "Next.js",
+                "icon": "nextjs"
+            },
+            {
+                "name": "React",
+                "icon": "react"
+            },
+            {
+                "name": "Tailwind CSS",
+                "icon": "tailwind"
+            },
+            {
+                "name": "Node.js",
+                "icon": "node"
+            },
+            {
+                "name": "PostgreSQL",
+                "icon": "postgresql"
+            },
+            {
+                "name": "MongoDB",
+                "icon": "mongodb"
+            }
+        ]
+    },
+    {
+        "id": "library-management-system",
+        "carouselImages": [
+            "28.png",
+            "29.png",
+            "30.png",
+            "31.png",
+            "32.png",
+            "33.png",
+            "34.png",
+            "35.png",
+            "36.png",
+            "37.png",
+            "38.png",
+            "39.png",
+            "40.png",
+            "41.png",
+            "42.png",
+            "43.png",
+            "44.png",
+            "45.png",
+            "27.png"
+        ],
+        "architectureImages": [
+            "21.png",
+            "22.png",
+            "23.png",
+            "24.png",
+            "25.png",
+            "26.png"
+        ],
+        "projectRepos": [
+            "https://github.com/BonLacorte/Costa-Library-Management-System-server.git",
+            "https://github.com/BonLacorte/Costa-Library-Management-System-client.git"
+        ],
+        "projectTitle": "Costa-LMS: Enterprise Library Management Platform",
+        "projectSlogan": "Digital Library Administration System",
+        "projectDescription": "An enterprise-grade, digital-first Library Management System (LMS) designed to bridge physical library operations with a modern online patron experience. It is split into a responsive User Portal for self-service and a data-driven Admin Dashboard for inventory and circulation management. The platform supports complete lifecycle tracking for library assets—from real-time catalog browsing and queue-based reservations to physical checkouts—and integrates Razorpay to handle digital payments for overdue fines and premium subscription tiers.",
+        "projectTechnologies": [
+            {
+                "name": "Java",
+                "icon": "java"
+            },
+            {
+                "name": "Spring Boot",
+                "icon": "springboot"
+            },
+            {
+                "name": "PostgreSQL",
+                "icon": "postgresql"
+            },
+            {
+                "name": "Next.js",
+                "icon": "nextjs"
+            },
+            {
+                "name": "React",
+                "icon": "react"
+            },
+            {
+                "name": "TypeScript",
+                "icon": "typescript"
+            },
+            {
+                "name": "Tailwind CSS",
+                "icon": "tailwind"
             }
         ]
     }
