@@ -47,7 +47,7 @@
         "projectVideo": "https://youtu.be/-l2CEWnarU0",
         "projectTitle": "Modern Java Library Analytics & Management",
         "projectSlogan": "Automated Library Operations Platform",
-        "projectDescription": "A self-initiated project developed during my 3rd year of college to master advanced Java Swing concepts and software architecture. Costa-LMS is a modern desktop application designed to streamline library operations, featuring a sleek, custom-built UI that goes far beyond standard Java library defaults.\n\nThe system implements complex library workflows including book issuance (with availability checks), automated return processing, and a 'Defaulter Tracking' system to identify overdue books in real-time. By utilizing custom UI components and a clean modular design, this project demonstrates my ability to take a standard business requirement and elevate it into a professional, production-ready software solution.\n\n👨‍💻 For Engineering Managers:\nThis project was built as a side-project to push the limits of Java desktop development. I focused heavily on creating a reusable UI component library and implementing a robust data validation layer.\n1. Clone the repo\n2. Run the JAR file to see the smooth transitions and modern aesthetics in action.",
+        "projectDescription": "A self-initiated project developed during my 3rd year of college to master advanced Java Swing concepts and software architecture. Costa-LMS is a modern desktop application designed to streamline library operations, featuring a sleek, custom-built UI that goes far beyond standard Java library defaults.\n\nThe system implements complex library workflows including book issuance (with availability checks), automated return processing, and a 'Defaulter Tracking' system to identify overdue books in real-time. By utilizing custom UI components and a clean modular design, this project demonstrates my ability to take a standard business requirement and elevate it into a professional, production-ready software solution.",
         "projectTechnologies": [
             {
                 "name": "Java",
@@ -274,10 +274,10 @@
         "projectRepo": "https://github.com/BonLacorte/Ecommerce-Microservice-Turbo.git",
         "projectTitle": "TurboCommerce: Event-Driven Microservices Platform",
         "projectSlogan": "A highly scalable, event-driven ecommerce platform",
-        "projectDescription": "A highly scalable, event-driven ecommerce platform built from the ground up using a microservices architecture. Designed to handle high-traffic scenarios, the system is split into distinct, decoupled services (Auth, Product, Order, Payment, and Email) that communicate asynchronously via an Apache Kafka message broker.\n\nTo optimize developer experience and code-sharing, the entire suite—including two separate Next.js frontends (Client and Admin)—is managed within a Turborepo monorepo. The project demonstrates polyglot persistence, utilizing PostgreSQL (with Prisma) for relational product data and MongoDB (with Mongoose) for flexible order documents. All infrastructure, including the 3-broker Kafka cluster and databases, is fully containerized with Docker for seamless local deployment.\n\n👨‍💻 For Recruiters & Engineers: Run it locally!\nI have designed this complex microservices cluster to be easily deployable on any machine.\n1. Clone the repository\n2. Read the SETUP_GUIDE.md for a single-command Docker spin-up of the Kafka cluster and databases.\n3. Run pnpm dev to boot all 7 services simultaneously.",
+        "projectDescription": "A highly scalable, event-driven ecommerce platform built from the ground up using a microservices architecture. Designed to handle high-traffic scenarios, the system is split into decoupled services (Auth, Product, Order, Payment, and Email) that communicate asynchronously via an Apache Kafka message broker.\n\nTo optimize developer experience and code-sharing, the entire suite—including two separate Next.js frontends (Client and Admin)—is managed within a Turborepo monorepo. The project shows persistence, utilizing PostgreSQL (with Prisma) for relational product data and MongoDB (with Mongoose) for flexible order documents. All infrastructure, including the 3-broker Kafka cluster and databases, is fully containerized with Docker for seamless local deployment.",
         "projectTechnologies": [
             {
-                "name": "Architecture",
+                "name": "Turborepo",
                 "icon": "turborepo"
             },
             {
@@ -311,6 +311,14 @@
             {
                 "name": "MongoDB",
                 "icon": "mongodb"
+            },
+            {
+                "name": "Cloudinary",
+                "icon": "cloudinary"
+            },
+            {
+                "name": "Stripe",
+                "icon": "stripe"
             }
         ]
     },
@@ -378,8 +386,20 @@
                 "icon": "typescript"
             },
             {
+                "name": "Docker",
+                "icon": "docker"
+            },
+            {
                 "name": "Tailwind CSS",
                 "icon": "tailwind"
+            },
+            {
+                "name": "Cloudinary",
+                "icon": "cloudinary"
+            },
+            {
+                "name": "Razorpay",
+                "icon": "razorpay"
             }
         ]
     }

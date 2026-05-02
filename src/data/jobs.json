@@ -94,7 +94,7 @@
         "jobPicture": "pca.png",
         "jobColor": "#006fff",
         "jobTitle": "Technical Staff - Computer Programmer",
-        "jobTime": "December 2024 - January 2026",
+        "jobTime": "December 2024 - April 2026",
         "jobCompany": "Philippine Coconut Authority",
         "jobCompanySite": "https://pca.gov.ph/",
         "jobDescription": "I serve as a full-stack developer under the Internal Audit Department of PCA, where I developed the department website with a feature of streamlining the audit processes, build automation processes for audit tools, and participate in audits.",
@@ -127,7 +127,6 @@
                 "name": "TailwindCSS",
                 "icon": "tailwind"
             },
-            
             {
                 "name": "jQuery",
                 "icon": "jquery"
